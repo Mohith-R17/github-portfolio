@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: rgb(7, 137, 115);
-  background-image: url(".vscode/milky-way-2695569_1280.jpg"), none;
+  background-image: url("milky-way-2695569_1280.jpg"), none;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
